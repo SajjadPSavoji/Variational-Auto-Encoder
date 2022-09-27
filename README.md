@@ -6,11 +6,10 @@ VAE is a way to perform efficient inference and learning in directed probabilist
 
 
 # Resutls
-| Space | Changes in Time |
-| :---  | :-------------- |
-|sajjad|right|
+| Space | Symbol | Changes in Time |
+| :---  | :----- |:--------------- |
+|Latent Space|$z$|[gif 1](https://github.com/SajjadPSavoji/Variational-Auto-Encoder/blob/master/vae_grid%20(4).gif) |
 
-![gif 1](https://github.com/SajjadPSavoji/Variational-Auto-Encoder/blob/master/vae_grid%20(4).gif)
 ![gif 2](https://github.com/SajjadPSavoji/Variational-Auto-Encoder/blob/master/vae_latent%20(7).gif)
 
 # Resources
